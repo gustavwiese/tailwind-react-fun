@@ -10,11 +10,11 @@ const Navbar = () => {
 
   return (
     <div className="flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 text-white">
-      <h1 className="w-full text-3xl font-bold text-[#00df9a]">REACT.</h1>
+      <h1 className="w-full text-3xl font-bold text-[#00df9a]">THIS IS ME.</h1>
       <ul className="hidden md:flex">
         <li className="p-3">Home</li>
-        <li className="p-3">Company</li>
-        <li className="p-3">Resources</li>
+        <li className="p-3">Fun</li>
+        <li className="p-3">CV</li>
         <li className="p-3">About</li>
         <li className="p-3">Contact</li>
       </ul>
@@ -28,11 +28,11 @@ const Navbar = () => {
             : "fixed left-[-100%]"
         }
       >
-        <h1 className="w-full text-3xl font-bold text-[#00df9a] m-4">REACT.</h1>
+        <h1 className="w-full text-3xl font-bold text-[#00df9a] m-4">THIS IS ME.</h1>
         <ul className="uppercase p-4">
           <li className="p-3 border-b border-b-gray-600">Home</li>
-          <li className="p-3 border-b border-b-gray-600">Company</li>
-          <li className="p-3 border-b border-b-gray-600">Resources</li>
+          <li className="p-3 border-b border-b-gray-600">Fun</li>
+          <li className="p-3 border-b border-b-gray-600">CV</li>
           <li className="p-3 border-b border-b-gray-600">About</li>
           <li className="p-3">Contact</li>
         </ul>
