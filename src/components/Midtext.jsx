@@ -1,6 +1,5 @@
 import React from "react";
 
-
 const Midtext = () => {
   return (
     <div className="text-white">
