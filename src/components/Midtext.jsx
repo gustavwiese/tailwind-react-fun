@@ -12,7 +12,7 @@ export default function Midtext (){
           <p className="md:text-2xl sm:text-xl text-l font-bold pl-1 text-gray-500">
             <Typewriter
               options={{
-                strings: ["game", "workout", "socialize", "swim"],
+                strings: ["game", "workout", "socialize", "swim", "eat", "work", "learn"],
                 autoStart: true,
                 loop: true,
                 pauseFor: 500,
