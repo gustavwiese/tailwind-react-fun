@@ -10,7 +10,7 @@ export default function White() {
           src={MeLifeguard}
           alt="FlowershirtPic"
         />
-        <div className="flex flex-col justify-center">
+        <div className="flex flex-col justify-center sm:m-2">
           <p className="text-[#00df9a] font-bold">RANDOM PICTURE OF ME</p>
           <h1 className="md:text-2xl sm:text-xl text-l font-bold py-1">"On duty"</h1>
           <p>
